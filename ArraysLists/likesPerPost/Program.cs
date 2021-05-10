@@ -10,7 +10,6 @@ namespace likesPerPost
             var listFriends = new List<string>();
             Console.WriteLine("A display logic for adding likes to a post.");
             
-            
             do
             {
               Console.Write("Enter a name: ");
