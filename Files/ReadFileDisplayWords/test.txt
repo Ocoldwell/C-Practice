@@ -1,0 +1,1 @@
+﻿Hi, I'm a test file for this program that looks to see how many words are in a document.
