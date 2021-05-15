@@ -1,3 +1,3 @@
 # C# practice
 
-A selection of exercises to practice C# syntax and logic.
+A selection of exercises to practice C# syntax and logic based on C# Basic for Beginners on Udemy
